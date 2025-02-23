@@ -176,3 +176,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support, email iemafzalhassan@gmail.com or join our [Discord channel](https://discord.gg/aVMWfSKA). 
+
+
+## CD/CD using GitHub Action Blog by Amitabh soni 
+
+https://amitabhdevops.hashnode.dev/online-shop-with-github-actions-cicd
