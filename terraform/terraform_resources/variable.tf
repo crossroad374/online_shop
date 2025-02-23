@@ -124,6 +124,8 @@ variable "app_protocol" {
   default     = "tcp"
 }
 
+
+
 variable "app_cidr" {
   description = "Defines the CIDR block to allow application access (default: open to all)."
   type        = string
